@@ -1,2 +1,8 @@
 # kafkaesqueue
-Persistent Queue System
+File-based Persistent Queue System for time intensive tasks.
+
+## Libraries Used
+- httpx
+- asyncio
+- fastAPI
+- pydantic
