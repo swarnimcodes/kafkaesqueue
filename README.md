@@ -3,7 +3,7 @@ File-based Persistent Queue System for time intensive tasks.
 
 ## Flow
 
-- Enqueue a task
+### Enqueue a task
 
 Request:
 
@@ -35,7 +35,7 @@ Result:
 }
 ```
 
-- Get status of queued task
+### Get status of queued task
 
 Request:
 
